@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     margin: 0%;
     padding:0%;
@@ -5,4 +6,13 @@ body{
 }
 h1{
     text-align:center;
+=======
+body{
+    margin: 0%;
+    padding:0%;
+
+}
+h1{
+    text-align:center;
+>>>>>>> 2f233761be84293b2423841e985495dbdf9a052d
 }

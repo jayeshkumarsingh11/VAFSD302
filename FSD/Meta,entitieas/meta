@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
         <head>
@@ -26,4 +27,34 @@
         &copy;&trade; &reg; &dollar;
         &cent; &#8377;-->
         </body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Meta HTML Entities framework</title>
+            <style>
+                body{
+                    margin:0px;padding:0px;box-sizing: border-box;
+                }
+                frame{
+                    border:5px solid #ccc;        
+                }
+            </style>
+        </head>
+        <frameset rows="20%,15%,50%,*" border="1">
+            <frame src="./frames/header.html"></frame>
+            <frame src="./frames/navbar.html"></frame>
+            <frame src="./frames/frame3.html"></frame>
+            <frame src="./frames/footer.html"></frame>
+        </frameset>
+        <body>
+            <h1>Meta | HTML Entities | Frameset</h1>
+            <!--<p>Lorem ipsum, dolor sit amet consectetur</p>
+        &lt;hello &nbsp;&nbsp;&gt
+        &copy;&trade; &reg; &dollar;
+        &cent; &#8377;-->
+        </body>
+>>>>>>> 2f233761be84293b2423841e985495dbdf9a052d
 </html>
